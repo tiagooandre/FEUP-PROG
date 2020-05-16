@@ -1,0 +1,3 @@
+/Users/tiagoandre/Documents/PROG/1 - Data types. Arithmetic expressions. Input and output./1.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tiagoandre/Documents/PROG/1 - Data types. Arithmetic expressions. Input and output./1.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tiagoandre/Documents/PROG/1 - Data types. Arithmetic expressions. Input and output./1.4/cmake-build-debug/CMakeFiles/1_4.dir
