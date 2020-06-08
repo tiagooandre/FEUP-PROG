@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.cpp
+sstream
+-
+iomanip
+-
+iostream
+-
+Date.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.h
+
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.h
+string
+-
+
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Person.cpp
+iostream
+-
+Person.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Person.h
+Date.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.h
+
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Person.h
+string
+-
+Date.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.h
+
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/main.cpp
+iostream
+-
+Person.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Person.h
+Date.h
+/Users/tiagoandre/Documents/PROG/Objected Oriented Programming Using C++/3/Date.h
+
